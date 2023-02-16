@@ -3,3 +3,4 @@ Mục tiêu đề ra của dự án này là nhằm giúp cải thiện mức đ
 #### Input gồm 3 file accidents_final.csv, casualties_final.csv, vehicles_final.csv, mình không thể đưa vào github bởi 3 file này mỗi file chiếm 300mb. nên mình sẽ up vào link gg drive
 https://drive.google.com/drive/folders/1rcID0fkAH0Ls1ZJfqnSvUO78hGyqROmW?usp=sharing
 #### Ouput là 3 biến, tượng trưng cho mức độ nghiêm trọng của tai nạn
+Đây là dự án đầu tay nên có thể nó có vài phần thiếu sót 
